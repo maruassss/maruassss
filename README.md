@@ -1,5 +1,9 @@
-## Hi there 👋
-
+#SimulAprovão
+Maria Helena Araújo de Sousa, Kamilly Victoria Oliveira Lima.
+ETEC Taboão da Serra 
+Projeto criado para avaliação da materia de Tecnicas de Programação e Algoritmos (TPA), ministrada pela professora Alicia Stefany.
+* O SimulAprovão é um sistema prático e acessível para os jovens que irão realizar o Provão Paulista, focando exclusivamente nos conteúdos do Ensino Médio. A nossa plataforma permitirá que os estudantes respondam simulados elaborados no mesmo formato e estilo da prova real, proporcionando uma experiência de preparação mais fiel e eficaz. Durante a realização do simulado, o sistema indicará quais questões foram acertadas e quais foram erradas. Dessa forma, o estudante poderá identificar de maneira clara e objetiva suas áreas de maior dificuldade, possibilitando um planejamento de estudos mais direcionado e eficiente. Além de ser uma ferramenta de treino, a plataforma também contribuirá para que os estudantes se organizem melhor, acompanhando seu desempenho ao longo do tempo e aprimorando seus conhecimentos de forma contínua.
+* 
 <!--
 **maruassss/maruassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
